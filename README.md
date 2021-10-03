@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 
 File to understand the working of git repository and practice
 ## How to Contribute
+Me and only me
 
 ## Description
 
